@@ -28,31 +28,6 @@ Data Processing: Pandas, Scikit-learn
 
 Frontend: HTML, CSS
 
-## Project Structure
-
-The project is organized into a clean and maintainable structure:
-
-Veracity-Vigilance/
-│
-├── data/
-│   ├── True.csv
-│   └── Fake.csv
-│
-├── models/
-│   └── saved_models/
-│       └── minilm_fake_news_model/  (Created after training)
-│           ├── config.json
-│           ├── pytorch_model.bin
-│           
-│
-├── src/
-│   ├── templates/
-│   │   └── index.html
-│   └── app.py
-│
-├── train_model.py
-└── requirements.txt
-
 ## Setup and Installation
 
 It's highly recommended to use a virtual environment to manage project dependencies.
@@ -78,7 +53,7 @@ The terminal will show that the server is running. Now, open your web browser an
 http://127.0.0.1:5000
 
 You can now use the application to analyze news articles.
-## Only News Articles From Dataset can be used
+## Only News Articles From Dataset can be used in the Project 
 
 ## Model Details
 
