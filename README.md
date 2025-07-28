@@ -1,4 +1,4 @@
-# Veracity Vigilance: AI-Powered Fake News Detector
+# Veracity Vigilance: Fake News Detector
 
 Veracity Vigilance is a web application that uses a state-of-the-art AI model to detect fake news. It provides a simple interface for users to paste news articles and receive an instant classification of "REAL" or "FAKE" along with a confidence score, helping to combat the spread of misinformation online.
 
